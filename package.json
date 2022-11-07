@@ -1,0 +1,15 @@
+{
+  "name": "tao-webpack",
+  "version": "1.0.0",
+  "description": "Taowuu 的 Webpack 全解",
+  "scripts": {
+    "build": "webpack"
+  },
+  "private": true,
+  "author": "Taowuu",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.26.0",
+    "webpack-cli": "^3.1.2"
+  }
+}
